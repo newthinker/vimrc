@@ -407,6 +407,8 @@ fun! SetupVAM()
     \ 'load_template',
     \ 'github:scrooloose/nerdcommenter',
     \ 'AuthorInfo',
+    \ 'ZenCoding',
+    \ 'vimwiki',
   	\ ], {'auto_install' : 0})
   " sample: call vam#ActivateAddons(['pluginA','pluginB', ...], {'auto_install' : 0})
 
